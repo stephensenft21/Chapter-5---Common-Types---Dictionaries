@@ -1,0 +1,11 @@
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.exe
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.deps.json
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.runtimeconfig.json
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.runtimeconfig.dev.json
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.dll
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.pdb
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.csprojAssemblyReference.cache
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.AssemblyInfoInputs.cache
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.AssemblyInfo.cs
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.dll
+C:\Users\NSS31\workspaceC-35\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.pdb
